@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.456dd4c7.chunk.css",
-    "main.js": "/homepage/static/js/main.d2ce08cc.chunk.js",
-    "main.js.map": "/homepage/static/js/main.d2ce08cc.chunk.js.map",
-    "runtime-main.js": "/homepage/static/js/runtime-main.66742f85.js",
-    "runtime-main.js.map": "/homepage/static/js/runtime-main.66742f85.js.map",
-    "static/js/2.4effeaaa.chunk.js": "/homepage/static/js/2.4effeaaa.chunk.js",
-    "static/js/2.4effeaaa.chunk.js.map": "/homepage/static/js/2.4effeaaa.chunk.js.map",
-    "index.html": "/homepage/index.html",
-    "precache-manifest.d276de032b8902f22c546af759e57af9.js": "/homepage/precache-manifest.d276de032b8902f22c546af759e57af9.js",
-    "service-worker.js": "/homepage/service-worker.js",
-    "static/css/main.456dd4c7.chunk.css.map": "/homepage/static/css/main.456dd4c7.chunk.css.map",
-    "static/js/2.4effeaaa.chunk.js.LICENSE": "/homepage/static/js/2.4effeaaa.chunk.js.LICENSE",
-    "static/media/tailwindcss.svg": "/homepage/static/media/tailwindcss.2c36d9c4.svg"
+    "main.css": "/widjaaja.github.io/static/css/main.456dd4c7.chunk.css",
+    "main.js": "/widjaaja.github.io/static/js/main.ab7448b9.chunk.js",
+    "main.js.map": "/widjaaja.github.io/static/js/main.ab7448b9.chunk.js.map",
+    "runtime-main.js": "/widjaaja.github.io/static/js/runtime-main.38a335f4.js",
+    "runtime-main.js.map": "/widjaaja.github.io/static/js/runtime-main.38a335f4.js.map",
+    "static/js/2.4effeaaa.chunk.js": "/widjaaja.github.io/static/js/2.4effeaaa.chunk.js",
+    "static/js/2.4effeaaa.chunk.js.map": "/widjaaja.github.io/static/js/2.4effeaaa.chunk.js.map",
+    "index.html": "/widjaaja.github.io/index.html",
+    "precache-manifest.c6ff8d6b81411e3429a3a71b4e638ba3.js": "/widjaaja.github.io/precache-manifest.c6ff8d6b81411e3429a3a71b4e638ba3.js",
+    "service-worker.js": "/widjaaja.github.io/service-worker.js",
+    "static/css/main.456dd4c7.chunk.css.map": "/widjaaja.github.io/static/css/main.456dd4c7.chunk.css.map",
+    "static/js/2.4effeaaa.chunk.js.LICENSE": "/widjaaja.github.io/static/js/2.4effeaaa.chunk.js.LICENSE",
+    "static/media/tailwindcss.svg": "/widjaaja.github.io/static/media/tailwindcss.2c36d9c4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.66742f85.js",
+    "static/js/runtime-main.38a335f4.js",
     "static/js/2.4effeaaa.chunk.js",
     "static/css/main.456dd4c7.chunk.css",
-    "static/js/main.d2ce08cc.chunk.js"
+    "static/js/main.ab7448b9.chunk.js"
   ]
 }
